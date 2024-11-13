@@ -1,13 +1,15 @@
+<!--tela de gerenciamento-->
 ![kingbarao GitHub stats](https://github-readme-stats.vercel.app/api?username=kingbarao&show_icons=true&theme=radical)
 
 #
-## Redes Sociais
+<!--Gifs de redes sociais-->
+# Redes Sociais
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4169e1&color:FFF)]()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4169e1&color:FFF)](https://linkedin.com/in/vitor-daniel-a2627326a)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4169e1&color:FFF)](https://instagram.com/vitor.1d)
 
 #
-
+<!--Minhas linguagens-->
 <h3 align="left">My Stack</h3>
 
 <div align="left">
@@ -22,7 +24,7 @@
 </div>
 
 #
-
+<!--Cobrinha-->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaraoVitor/BaraoVitor/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaraoVitor/BaraoVitor/output/github-contribution-grid-snake-dark.svg">
