@@ -1,3 +1,17 @@
+<!--letras sendo escritas-->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ADEAEA&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+^_^+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+
+<div style="text-alight: center;" alight="center;">
+    <h4>Ola! Meu nome e Vitor Daniel sou um estudante de Engenharia de Software e gosto muito de programar estou atualmente estou aprendendo varias linguagens de programação.
+    </h4>
+</div>
+
+#
 <!--tela de gerenciamento-->
 <div style="text-align: center;" align="center">
   <h3> GitHub Stats </h3>
