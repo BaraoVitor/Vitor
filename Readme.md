@@ -18,7 +18,7 @@
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BaraoVitor&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=4169e1&text_color=FFF&border_radius=3&border_color=4169e1&icon_color=4169e1&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/Vitor/github-readme-stats">
+  <a href="https://github.com/BaraoVitor/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BaraoVitor&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=4169e1&hide=html,scss,less&bg_color=000&text_color=4169e1&border_radius=3&border_color=4169e1&count_private=true" alt="Most Used Languages">
   </a>
 </div>
